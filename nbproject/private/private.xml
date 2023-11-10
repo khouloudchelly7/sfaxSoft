@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/laragon/www/repository/monprojetci2/application/views/layouts/nav.php</file>
+            <file>file:/C:/laragon/www/repository/monprojetci2/application/views/task/listTask.php</file>
+            <file>file:/C:/laragon/www/repository/monprojetci2/application/views/task/updateTask.php</file>
+            <file>file:/C:/laragon/www/repository/monprojetci2/application/views/user/updateUser.php</file>
+            <file>file:/C:/laragon/www/repository/monprojetci2/application/controllers/Task.php</file>
+            <file>file:/C:/laragon/www/repository/monprojetci2/application/models/TaskModel.php</file>
+            <file>file:/C:/laragon/www/repository/monprojetci2/application/views/layouts/header.php</file>
+            <file>file:/C:/laragon/www/repository/monprojetci2/application/views/user/register.php</file>
+            <file>file:/C:/laragon/www/repository/monprojetci2/application/controllers/User.php</file>
+        </group>
+    </open-files>
+</project-private>
